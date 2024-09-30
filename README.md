@@ -1,2 +1,3 @@
 # demo-repository
-This is demo repository for practicing making repositories.
+This is a demo repository for practicing making repositories.
+author: Abdul Rafay Sabir
